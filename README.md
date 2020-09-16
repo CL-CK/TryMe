@@ -1,4 +1,4 @@
-## Marooner - A virtual trial room
+## TryMe - A virtual trial room
 
 This is a prototype for a virtual trial room, implemented entirely in python.
 For a user image like this
